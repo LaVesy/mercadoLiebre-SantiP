@@ -450,7 +450,7 @@ footer {
     
     }
     .enviarRegister:hover {
-        background-color: var(--azul-claro);
+      background-color: var(--azul-claro);
     }
     
 
@@ -461,5 +461,5 @@ footer {
     cursor: pointer;
     }
     .resetearDatos:hover {
-        background-color: var(--azul-claro);
+      background-color: var(--azul-claro);
     }
